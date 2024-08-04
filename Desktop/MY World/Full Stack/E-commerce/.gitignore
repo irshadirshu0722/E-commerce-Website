@@ -1,0 +1,4 @@
+db
+env
+env-activate.Readme
+backend/db.sqlite3
